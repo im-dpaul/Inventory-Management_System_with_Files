@@ -1,0 +1,6 @@
+Deb,9876543210,dj@gmail.com,Dairy Milk,5,5,50,Thu Nov  3 02:27:07 2022
+Dj,9012345678,dj@gmail.com,5 Star,1,2,10,Thu Nov  3 02:27:42 2022
+Deb,9753102468,dp@mail.com,Cake,3,2,600,Thu Nov  3 02:17:08 2022
+Dj,7070707070,dp123@mail.co,Kit Kat,6,5,50,Thu Nov  3 02:18:41 2022
+Deb,7070707070,ab@mail.in,Candy,4,5,5,Thu Nov  3 02:19:57 2022
+abc,9012345678,ab@ab.ab,5 Star,1,1,5,Thu Nov  3 02:23:00 2022

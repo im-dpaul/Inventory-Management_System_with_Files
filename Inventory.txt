@@ -1,0 +1,8 @@
+1,5 Star,5,100
+2,Milky Bar,5,185
+3,Cake,300,15
+4,Candy,1,1000
+5,Dairy Milk,10,45
+6,Kit Kat,10,75
+7,Good Day,5,50
+8,Lays,5,50
